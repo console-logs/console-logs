@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Deepak, and I run <a href="https://consolelogs.in" target="_blank">Console Logs</a> and <a href="https://circuitparts.in" target="_blank">Circuit Parts</a>. I studied electrical engineering in college, and after seeing the excitement in the software industry, I was hooked. I wanted to work with software and write code. I started my career working for a company as an Embedded Software Engineer writing firmware for 32-bit microcontrollers and microprocessors, and then after few years I moved on to writing code to build web apps that solve real problems in the hardware community. During the same time I've also started to build Console Logs - A marketplace to sell digital creations and get paid.
 
-In short I've coding for over 7 years now. First few years I wrote low level firmware using C and from the last 4 years I've been working on building web apps using Next.js and Ruby on Rails.
+In short I've been coding for over 7 years now. First few years I wrote low level firmware using C and from the last 4 years I've been working on building web apps using Next.js and Ruby on Rails.
 
 ## Projects
 
